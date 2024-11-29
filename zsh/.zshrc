@@ -108,4 +108,4 @@ source $ZSH/oh-my-zsh.sh
 #
 export EDITOR=nvim
 source ~/.profile
-
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
